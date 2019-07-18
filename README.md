@@ -5,8 +5,8 @@ Here, I used a machine learning technique, namely LSTM(Long Short Term Memory) f
 
 Broadly, stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis.
 
-Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.
-Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
+    Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.
+    Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
     
 Our focus here, will be on the technical analysis part. I’ll be using a dataset from Quandl and for this particular project, I have used the data for ‘Tata Global Beverages’.
 
